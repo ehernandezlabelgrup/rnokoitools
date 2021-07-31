@@ -1,6 +1,6 @@
 {
     "name": "rnokoi-tools",
-    "version": "0.0.2",
+    "version": "0.0.3",
     "description": "Componentes react native okoi",
     "main": "index.js",
     "scripts": {
