@@ -7,7 +7,8 @@
         "ios": "react-native run-ios",
         "start": "react-native start",
         "test": "jest",
-        "lint": "eslint ."
+        "lint": "eslint .",
+        "deploy": "git add . && git commit -m 'before commit' && git push && cd lib && npm publish && cd .."
     },
     "dependencies": {
         "prop-types": "^15.7.2",
