@@ -1,0 +1,23 @@
+{
+    "name": "rnokoi-tools",
+    "version": "0.0.1",
+    "description": "Componentes react native okoi",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1",
+        "deploy": "npm publish"
+    },
+    "repository": {
+        "type": "git",
+        "url": "git+https://github.com/ehernandezlabelgrup/rnokoitools.git"
+    },
+    "author": "Emilio Hernandez",
+    "license": "MIT",
+    "bugs": {
+        "url": "https://github.com/ehernandezlabelgrup/rnokoitools/issues"
+    },
+    "homepage": "https://github.com/ehernandezlabelgrup/rnokoitools#readme",
+    "publishConfig": {
+        "registry": "https://npm.pkg.github.com/@dalenguyen"
+    }
+}
